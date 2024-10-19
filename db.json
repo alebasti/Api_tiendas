@@ -1,0 +1,131 @@
+{
+    "tiendas": [
+      {
+        "id": 1,
+        "name": "La Huerta de Don Pedro",
+        "description": "Especialistas en frutas y verduras frescas",
+        "imageUrl": "https://radio.uchile.cl/wp-content/uploads/2022/12/frutas-y-verduras.jpg",
+        "category": "frutas"
+      },
+      {
+        "id": 2,
+        "name": "El Verdulero Fiel",
+        "description": "Todo tipo de verduras frescas y orgánicas",
+        "imageUrl": "https://www.cocinavital.mx/wp-content/uploads/2017/08/verduras.jpg",
+        "category": "verduras"
+      },
+      {
+        "id": 3,
+        "name": "Super Aseo Total",
+        "description": "Productos de limpieza para el hogar",
+        "imageUrl": "https://www.ecoticias.com/wp-content/uploads/2022/07/productos-limpieza.jpg",
+        "category": "aseo"
+      },
+      {
+        "id": 4,
+        "name": "Frutas del Sol",
+        "description": "Frutas tropicales frescas directo de la granja",
+        "imageUrl": "https://www.frutapasion.com/wp-content/uploads/2019/09/frutas-tropicales-750x410.jpg",
+        "category": "frutas"
+      },
+      {
+        "id": 5,
+        "name": "Hortalizas del Campo",
+        "description": "Verduras y hortalizas frescas",
+        "imageUrl": "https://t1.uc.ltmcdn.com/images/8/2/2/cuales_son_las_verduras_200228_600.jpg",
+        "category": "verduras"
+      },
+      {
+        "id": 6,
+        "name": "Aseo Express",
+        "description": "Surtido de productos de aseo para todo tipo de limpieza",
+        "imageUrl": "https://static.wixstatic.com/media/e5b511_93f0f0c8fbf74b279a06a20c3df037b6~mv2.jpg",
+        "category": "aseo"
+      },
+      {
+        "id": 7,
+        "name": "Panadería Delicias",
+        "description": "Pan fresco y artesanal hecho cada día",
+        "imageUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/8d0666bb62dd8bc95e612f1936600721.jpg",
+        "category": "panadería"
+      },
+      {
+        "id": 8,
+        "name": "Carnes Selectas",
+        "description": "Carnes rojas de alta calidad",
+        "imageUrl": "https://www.meatup.cl/media/tienda/500x500_1643905458_costillar_de_res_con_hueso_vacuno_grano_brangus_2kg_fro.jpg",
+        "category": "carnicería"
+      },
+      {
+        "id": 9,
+        "name": "Pescadería El Ancla",
+        "description": "Pescados y mariscos frescos del día",
+        "imageUrl": "https://media.admagazine.com/photos/618a0c8263a1839c0025b6e2/master/w_1600%2Cc_limit/82163.jpg",
+        "category": "pescadería"
+      },
+      {
+        "id": 10,
+        "name": "Dulcería Azúcar",
+        "description": "Dulces tradicionales y golosinas importadas",
+        "imageUrl": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2021/10/tipos-de-dulces-mexicanos.jpg",
+        "category": "dulcería"
+      },
+      {
+        "id": 11,
+        "name": "Lácteos La Granja",
+        "description": "Productos lácteos frescos y derivados",
+        "imageUrl": "https://www.alqueria.com.co/sites/default/files/derecho_lacteos.png",
+        "category": "lácteos"
+      },
+      {
+        "id": 12,
+        "name": "Tienda Natural",
+        "description": "Productos orgánicos y saludables",
+        "imageUrl": "https://lahuertadepancha.com/wp-content/uploads/2020/12/tienda-organica-1.jpg",
+        "category": "orgánicos"
+      },
+      {
+        "id": 13,
+        "name": "Bebidas Frescas",
+        "description": "Jugos naturales, refrescos y agua embotellada",
+        "imageUrl": "https://www.comedera.com/wp-content/uploads/2022/06/1-depositphotos_44593883-stock-photo-different-types-of-alcoholic-drinks.jpg",
+        "category": "bebidas"
+      },
+      {
+        "id": 14,
+        "name": "Mercado Natural",
+        "description": "Alimentos a granel y productos eco-friendly",
+        "imageUrl": "https://ep01.epimg.net/elviajero/imagenes/2018/04/10/actualidad/1523349666_487074_1523361091_sumario_normal.jpg",
+        "category": "a granel"
+      },
+      {
+        "id": 15,
+        "name": "Ropa y Más",
+        "description": "Ropa casual y accesorios para todas las edades",
+        "imageUrl": "https://assets.considerable.com/uploads/2020/02/clothes_organization-960x540.jpg",
+        "category": "ropa"
+      },
+      {
+        "id": 16,
+        "name": "Mascotas Felices",
+        "description": "Accesorios, alimentos y juguetes para mascotas",
+        "imageUrl": "https://www.purina-latam.com/sites/g/files/auxxlc391/files/2020-10/accesorios-para-perros.jpg",
+        "category": "mascotas"
+      },
+      {
+        "id": 17,
+        "name": "Tecnología Futuro",
+        "description": "Gadgets, electrónica y tecnología de vanguardia",
+        "imageUrl": "https://phantom-marca.unidadeditorial.es/7396786d6b26895db66f3aa7db0fa6a7/crop/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/13/16420806246489.jpg",
+        "category": "tecnología"
+      },
+      {
+        "id": 18,
+        "name": "La Tiendita Gourmet",
+        "description": "Alimentos gourmet y productos exclusivos",
+        "imageUrl": "https://cdn.cienradios.com/wp-content/uploads/sites/2/2019/02/deli.png",
+        "category": "gourmet"
+      }
+    ]
+  }
+  
